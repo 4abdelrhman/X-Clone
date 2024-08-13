@@ -478,5 +478,6 @@ main {
   }
   .main-feed {
     position: fixed;
+    width: 100%;
   }
 }
